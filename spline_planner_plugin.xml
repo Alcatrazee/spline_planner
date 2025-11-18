@@ -1,0 +1,5 @@
+<library path="spline_planner_plugin">
+	<class name="spline_planner/SplinePlanner" type="spline_planner::SplinePlanner" base_class_type="nav2_core::GlobalPlanner">
+	  <description>planner plugin using spline</description>
+	</class>
+</library>
